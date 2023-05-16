@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "*.dart": "dart",
+        "vendre_ticket.h": "c",
+        "ajouter_horaire.h": "c",
+        "ajouter_film.h": "c",
+        "film.h": "c",
+        "stdio.h": "c",
+        "afficher_films.h": "c",
+        "donner_place.h": "c",
+        "afficher_place_disponible.h": "c",
+        "afficher_menu.h": "c",
+        "plat.h": "c",
+        "obtenir_prix.h": "c",
+        "ajouter_reservation.h": "c",
+        "obtenir_nombre_de_places_disponible.h": "c",
+        "ajouter_invite.h": "c",
+        "gestion_mariage.h": "c",
+        "marque_presence.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
